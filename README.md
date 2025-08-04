@@ -1,4 +1,4 @@
-his repository documents and demonstrates the various features of Selenium that I have implemented and explored. Selenium is a powerful open-source tool for automating web browsers, widely used for web application testing and automation tasks.
+This repository documents and demonstrates the various features of Selenium that I have implemented and explored. Selenium is a powerful open-source tool for automating web browsers, widely used for web application testing and automation tasks.
 Repository Highlights
 
 
